@@ -1,0 +1,39 @@
+<resources>
+    <!-- Theme Preference -->
+    <string-array name="theme_pref">
+        <item>System Theme (Default)</item>
+        <item>Light Theme</item>
+        <item>Dark Theme</item>
+    </string-array>
+
+    <string-array name="theme_pref_value">
+        <item>SD</item>
+        <item>LM</item>
+        <item>NM</item>
+    </string-array>
+
+    <!-- Country Preference -->
+    <string-array name="country_pref">
+        <item>Global</item>
+        <item>India</item>
+        <item>United States</item>
+        <item>United Kingdom</item>
+        <!--<item>বাঙালি (পরীক্ষায়)</item>-->
+    </string-array>
+
+    <string-array name="country_pref_value">
+        <item>GLOBAL</item>
+        <item>IN</item>
+        <item>US</item>
+        <item>GB</item>
+        <!--<item>bn</item>-->
+    </string-array>
+
+    <string-array name="limit_pref">
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+    </string-array>
+</resources>
